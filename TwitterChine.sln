@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterChine", "TwitterChine\TwitterChine.csproj", "{D9C312DC-FC98-43E6-A61E-19003EBDCDB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{1E3140D8-A9DB-4560-9291-B2C64E5598ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F9A85CC0-92CE-457D-9E27-CCFA9D9493A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{F372B78D-0C02-4E97-A311-7905E614A045}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{F08CFE19-8EF3-4320-9D7D-BE62CD31523C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApp", "WebApp", "{413217C8-EA5C-4168-8614-F5FC3EF34EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterChine.Core.Application", "TwitterChine.Core.Application\TwitterChine.Core.Application.csproj", "{BB948311-7BFA-406A-BE79-D28A63F72AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterChine.Core.Domain", "TwitterChine.Core.Domain\TwitterChine.Core.Domain.csproj", "{A34AE2DF-A669-4A33-9518-2567DC064AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterChine.Infrastructure.Identity", "TwitterChine.Infrastructure.Identity\TwitterChine.Infrastructure.Identity.csproj", "{DA6BB140-A9E3-43EB-9F01-6384E2082F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterChine.Infrastructure.Persistence", "TwitterChine.Infrastructure.Persistence\TwitterChine.Infrastructure.Persistence.csproj", "{B6212850-F268-44DC-8ABB-60232913EBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterChine.Infrastructure.Shared", "TwitterChine.Infrastructure.Shared\TwitterChine.Infrastructure.Shared.csproj", "{16AA08CA-ABE2-45C9-8E21-FF2860114CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C312DC-FC98-43E6-A61E-19003EBDCDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C312DC-FC98-43E6-A61E-19003EBDCDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C312DC-FC98-43E6-A61E-19003EBDCDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C312DC-FC98-43E6-A61E-19003EBDCDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB948311-7BFA-406A-BE79-D28A63F72AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB948311-7BFA-406A-BE79-D28A63F72AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB948311-7BFA-406A-BE79-D28A63F72AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB948311-7BFA-406A-BE79-D28A63F72AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34AE2DF-A669-4A33-9518-2567DC064AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34AE2DF-A669-4A33-9518-2567DC064AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34AE2DF-A669-4A33-9518-2567DC064AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34AE2DF-A669-4A33-9518-2567DC064AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6BB140-A9E3-43EB-9F01-6384E2082F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6BB140-A9E3-43EB-9F01-6384E2082F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6BB140-A9E3-43EB-9F01-6384E2082F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6BB140-A9E3-43EB-9F01-6384E2082F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6212850-F268-44DC-8ABB-60232913EBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6212850-F268-44DC-8ABB-60232913EBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6212850-F268-44DC-8ABB-60232913EBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6212850-F268-44DC-8ABB-60232913EBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AA08CA-ABE2-45C9-8E21-FF2860114CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AA08CA-ABE2-45C9-8E21-FF2860114CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AA08CA-ABE2-45C9-8E21-FF2860114CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AA08CA-ABE2-45C9-8E21-FF2860114CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D9C312DC-FC98-43E6-A61E-19003EBDCDB9} = {413217C8-EA5C-4168-8614-F5FC3EF34EA2}
+		{F9A85CC0-92CE-457D-9E27-CCFA9D9493A4} = {1E3140D8-A9DB-4560-9291-B2C64E5598ED}
+		{F372B78D-0C02-4E97-A311-7905E614A045} = {1E3140D8-A9DB-4560-9291-B2C64E5598ED}
+		{F08CFE19-8EF3-4320-9D7D-BE62CD31523C} = {1E3140D8-A9DB-4560-9291-B2C64E5598ED}
+		{413217C8-EA5C-4168-8614-F5FC3EF34EA2} = {F08CFE19-8EF3-4320-9D7D-BE62CD31523C}
+		{BB948311-7BFA-406A-BE79-D28A63F72AB0} = {F9A85CC0-92CE-457D-9E27-CCFA9D9493A4}
+		{A34AE2DF-A669-4A33-9518-2567DC064AC5} = {F9A85CC0-92CE-457D-9E27-CCFA9D9493A4}
+		{DA6BB140-A9E3-43EB-9F01-6384E2082F79} = {F372B78D-0C02-4E97-A311-7905E614A045}
+		{B6212850-F268-44DC-8ABB-60232913EBC2} = {F372B78D-0C02-4E97-A311-7905E614A045}
+		{16AA08CA-ABE2-45C9-8E21-FF2860114CCD} = {F372B78D-0C02-4E97-A311-7905E614A045}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AD7F04B-8739-4F7E-AE04-11B89FAE0EED}
+	EndGlobalSection
+EndGlobal

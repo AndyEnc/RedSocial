@@ -1,0 +1,45 @@
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Application.deps.json
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Application.dll
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Application.pdb
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Domain.dll
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Domain.pdb
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.csproj.AssemblyReference.cache
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.AssemblyInfoInputs.cache
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.AssemblyInfo.cs
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.csproj.CoreCompileInputs.cache
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.csproj.CopyComplete
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.dll
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\refint\TwitterChine.Core.Application.dll
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.pdb
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\ref\TwitterChine.Core.Application.dll
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Application.deps.json
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Application.dll
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Application.pdb
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Domain.dll
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Domain.pdb
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.csproj.AssemblyReference.cache
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.AssemblyInfoInputs.cache
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.AssemblyInfo.cs
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.csproj.CopyComplete
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.dll
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\refint\TwitterChine.Core.Application.dll
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.pdb
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\ref\TwitterChine.Core.Application.dll
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Application.deps.json
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Application.dll
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Application.pdb
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Domain.dll
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\bin\Debug\net7.0\TwitterChine.Core.Domain.pdb
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.csproj.AssemblyReference.cache
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.AssemblyInfoInputs.cache
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.AssemblyInfo.cs
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.csproj.CopyComplete
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.dll
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\refint\TwitterChine.Core.Application.dll
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\TwitterChine.Core.Application.pdb
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Application\obj\Debug\net7.0\ref\TwitterChine.Core.Application.dll

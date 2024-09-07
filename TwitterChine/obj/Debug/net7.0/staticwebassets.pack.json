@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TwitterChine.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TwitterChine.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Posts\\b916106a-f791-4930-b1b1-999fefd0671b\\396580c8-bbb6-4f66-8846-46d7dbb0111f.png",
+      "PackagePath": "staticwebassets\\Images\\Posts\\b916106a-f791-4930-b1b1-999fefd0671b\\396580c8-bbb6-4f66-8846-46d7dbb0111f.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Posts\\b916106a-f791-4930-b1b1-999fefd0671b\\4f5e3191-f081-47ab-a1db-322c5eb54a09.jpg",
+      "PackagePath": "staticwebassets\\Images\\Posts\\b916106a-f791-4930-b1b1-999fefd0671b\\4f5e3191-f081-47ab-a1db-322c5eb54a09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Posts\\b916106a-f791-4930-b1b1-999fefd0671b\\5049fd2e-9706-4e69-a538-1f4de675b431.png",
+      "PackagePath": "staticwebassets\\Images\\Posts\\b916106a-f791-4930-b1b1-999fefd0671b\\5049fd2e-9706-4e69-a538-1f4de675b431.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Posts\\b916106a-f791-4930-b1b1-999fefd0671b\\5e216ec3-1fe2-4618-a429-3720823923f7.png",
+      "PackagePath": "staticwebassets\\Images\\Posts\\b916106a-f791-4930-b1b1-999fefd0671b\\5e216ec3-1fe2-4618-a429-3720823923f7.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Posts\\b916106a-f791-4930-b1b1-999fefd0671b\\92bc6551-ccc5-4932-b503-4e36eedffd01.png",
+      "PackagePath": "staticwebassets\\Images\\Posts\\b916106a-f791-4930-b1b1-999fefd0671b\\92bc6551-ccc5-4932-b503-4e36eedffd01.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\TwitterChino-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Images\\TwitterChino-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\Heidy2020\\b623f578-d640-4784-aaae-f83ed8351b48.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\Heidy2020\\b623f578-d640-4784-aaae-f83ed8351b48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\JamesCorley25\\01678dc4-41f7-4d15-bb86-f6ba4806079f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\JamesCorley25\\01678dc4-41f7-4d15-bb86-f6ba4806079f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\JamesCorley\\2eb5aa95-5092-449c-9858-547502261e83.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\JamesCorley\\2eb5aa95-5092-449c-9858-547502261e83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\JamesMoroen2526\\eb0f3bbf-e02d-4c1f-a548-0221b27bfa5a.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\JamesMoroen2526\\eb0f3bbf-e02d-4c1f-a548-0221b27bfa5a.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\LecturaD\\6b1e1c18-4f56-4763-a292-4c7f5603fcf8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\LecturaD\\6b1e1c18-4f56-4763-a292-4c7f5603fcf8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\LecturaD\\71dbf76c-f02b-4f2a-bf9d-05ef1871e74a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\LecturaD\\71dbf76c-f02b-4f2a-bf9d-05ef1871e74a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\LecturaDiurna2021\\28671d80-3625-4661-b593-be551422556c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\LecturaDiurna2021\\28671d80-3625-4661-b593-be551422556c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\LecturaDiurna\\a58c9084-9841-41ce-85cb-41fda03751b1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\LecturaDiurna\\a58c9084-9841-41ce-85cb-41fda03751b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\MariaLopers12\\13f0e363-d8af-4799-943f-4a64d7eacc29.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\MariaLopers12\\13f0e363-d8af-4799-943f-4a64d7eacc29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\MariaLopers12\\20e8e072-9d9d-4a36-95be-5b55b6f2c2ea.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\MariaLopers12\\20e8e072-9d9d-4a36-95be-5b55b6f2c2ea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\Wocean25\\729ab16a-ade1-447b-826b-86fe101890c9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\Wocean25\\729ab16a-ade1-447b-826b-86fe101890c9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\developerencarnacion\\6a014ed0-e7bf-40f6-ae97-99e673d79530.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\developerencarnacion\\6a014ed0-e7bf-40f6-ae97-99e673d79530.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\developerencarnacion\\d0659594-a73e-42db-a067-70ef5fbf900c.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\developerencarnacion\\d0659594-a73e-42db-a067-70ef5fbf900c.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\heidym12\\14e8a3ea-4f36-4cbe-bfe1-045726c8669c.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\heidym12\\14e8a3ea-4f36-4cbe-bfe1-045726c8669c.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\james\\84366026-5eb7-474a-b24d-a8bc9e6b1376.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\james\\84366026-5eb7-474a-b24d-a8bc9e6b1376.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\jhon\\8a827983-0c4c-4e44-bb35-2e708f67e7d7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\jhon\\8a827983-0c4c-4e44-bb35-2e708f67e7d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\Images\\Users\\wocanm\\5679230b-0bc8-4140-b480-953ae715daa4.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\wocanm\\5679230b-0bc8-4140-b480-953ae715daa4.png"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elbak\\OneDrive\\Escritorio\\\u00A0\\TwitterChine\\TwitterChine\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TwitterChine.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TwitterChine.props",
+      "PackagePath": "build\\TwitterChine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TwitterChine.props",
+      "PackagePath": "buildMultiTargeting\\TwitterChine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TwitterChine.props",
+      "PackagePath": "buildTransitive\\TwitterChine.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

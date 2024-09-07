@@ -1,0 +1,33 @@
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\bin\Debug\net7.0\TwitterChine.Core.Domain.deps.json
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\bin\Debug\net7.0\TwitterChine.Core.Domain.dll
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\bin\Debug\net7.0\TwitterChine.Core.Domain.pdb
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.AssemblyInfoInputs.cache
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.AssemblyInfo.cs
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.csproj.CoreCompileInputs.cache
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.dll
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\refint\TwitterChine.Core.Domain.dll
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.pdb
+D:\LecturaDiurna\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\ref\TwitterChine.Core.Domain.dll
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\bin\Debug\net7.0\TwitterChine.Core.Domain.deps.json
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\bin\Debug\net7.0\TwitterChine.Core.Domain.dll
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\bin\Debug\net7.0\TwitterChine.Core.Domain.pdb
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.AssemblyInfo.cs
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.dll
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\refint\TwitterChine.Core.Domain.dll
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.pdb
+C:\Users\elbak\OneDrive\Escritorio\TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\ref\TwitterChine.Core.Domain.dll
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\bin\Debug\net7.0\TwitterChine.Core.Domain.deps.json
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\bin\Debug\net7.0\TwitterChine.Core.Domain.dll
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\bin\Debug\net7.0\TwitterChine.Core.Domain.pdb
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.AssemblyInfo.cs
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.dll
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\refint\TwitterChine.Core.Domain.dll
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\TwitterChine.Core.Domain.pdb
+C:\Users\elbak\OneDrive\Escritorio\ \TwitterChine\TwitterChine.Core.Domain\obj\Debug\net7.0\ref\TwitterChine.Core.Domain.dll

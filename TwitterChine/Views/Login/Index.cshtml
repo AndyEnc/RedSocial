@@ -1,0 +1,68 @@
+﻿@using TwitterChine.Core.Application.ViewModels.UsersViewModels;
+
+@model LoginViewModel
+
+@{
+    ViewData["Title"] = "Inicio / GeX";
+
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12 d-flex justify-content-center align-items-center" style="min-height: 70vh;">
+            <div class="col-5">
+                <div class="offset-2 mb-3">
+                    <img src="~/Images/TwitterChino-removebg-preview.png" style="width:300px;" />
+                </div>
+
+                <div class="card border-cards">
+
+                    <div class="card-header bg-dark text-light text-center">
+                        <h4>TwitterChino</h4>
+                    </div>
+                    <div class="card-body">
+                        @if (Model.HasError)
+                        {
+                            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                <p>@Model.Error</p>
+                                <button type="button" class=" btn btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                            </div>
+                        }
+                        <form class="form-floating mb-3" method="post" asp-controller="Login" asp-action="Index">
+
+                            <div class="form-floating mb-3">
+                                <input type="email" class="form-control" asp-for="Email" placeholder="elmenol0030gmail.com" autocomplete="on">
+                                <label for="floatingInput">GMAIL</label>
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <input type="password" class="form-control" asp-for="Password" placeholder="elmenol0030gmail.com">
+                                <label for="floatingInput">PASSWORD</label>
+                                <span asp-validation-for="Password" class="text-danger"></span>
+
+                            </div>
+
+                            <div class="mb-3">
+                                <button type="submit" class="btn btn-outline-dark float-end ms-2" style="border-radius:50px; width:420px;">Iniciar Sesión</button>
+
+                            </div>
+
+
+
+
+                            <div class="mb-2">
+                                <span class="text-dark">Aun no tienes cuenta? <a class="text-primary" asp-controller="Login" asp-action="Register">Registrate</a> </span>
+                            </div>
+
+                            <div>
+                                <span class="text-dark">Olvidates tu contraseña? <a class="text-primary" asp-controller="Login" asp-action="ForgotPassword">Olvide mi contraseña</a> </span>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
